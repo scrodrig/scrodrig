@@ -47,7 +47,6 @@
 </p>
 
 ###
-<hr/>
 <h2 align="left">Some stats</h2>
 
 <br clear="both">
@@ -85,8 +84,6 @@
 </p>
 
 <h2 align="left">Skills</h2>
-
-<hr/>
 
 <h3 align="left">Languages and Tools:</h3>
 <hr/>
