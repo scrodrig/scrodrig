@@ -25,16 +25,6 @@
 
 <p align="left">
   <a
-    href="https://dev.to/scrodrig"
-    target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
-      alt="scrodrig"
-      height="30"
-      width="40"
-  /></a>
-  <a
     href="https://linkedin.com/in/schubert-david-rodriguez-a589aa17a"
     target="blank"
     ><img
@@ -44,9 +34,48 @@
       height="30"
       width="40"
   /></a>
+  <a
+    href="https://dev.to/scrodrig"
+    target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
+      alt="scrodrig"
+      height="30"
+      width="40"
+  /></a>
 </p>
 
 ###
+<h2 align="center">My Favourite stack</h2>
+<p align="center">
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+  alt="mongodb" width="40" height="40" /></a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+  alt="express" width="40" height="40" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+  alt="react" width="40" height="40" /></a>
+<a href="#" target="_blank" rel="noreferrer"> <img
+  src="https://cdn4.iconfinder.com/data/icons/sign-5/32/parentheses_1-512.png"
+  width="40" height="40" /></a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+  alt="nodejs" width="40" height="40" /></a>
+<a href="#" target="_blank" rel="noreferrer"> <img
+  src="https://cdn2.iconfinder.com/data/icons/catchwords2/512/or_letter_catchword_lettering_sticker_stickers-256.png" width="30" height="30" /></a>
+<a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs"
+  width="40" height="40" /></a>
+<a href="#" target="_blank" rel="noreferrer"> <img
+  src="https://cdn4.iconfinder.com/data/icons/sign-5/32/parentheses-512.png"
+  width="40" height="40" /></a>
+</p>
+
+###
+
 <h2 align="left">Some stats</h2>
 
 <br clear="both">
