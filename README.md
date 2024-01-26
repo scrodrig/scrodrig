@@ -75,7 +75,7 @@
 <p align="center">
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=scrodrig&theme=dracula&exclude_days=Sat,Sun
+    src="https://github-readme-streak-stats.herokuapp.com/?user=scrodrig&theme=dracula&exclude_days=Sat,Sun"
     alt="scrodrig"
   />
 </p>
