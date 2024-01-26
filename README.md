@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Schubert D. Rodriguez (@scrodrig)</h1>
 <h3 align="center">A passionate full stack developer, MEng | Results-Driven Full Stack Developer | MERN Full Stack | Crafting Efficient and Elegant Solutions for Complex Challenges | Geeky IT guy</h3>
 
-<img align="right" height="200" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif"  />
+<img align="right" height="200" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"  />
 
 ###
 
