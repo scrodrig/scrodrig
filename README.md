@@ -81,36 +81,34 @@
 <br clear="both">
 
 <p align="center">
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=scrodrig&show_icons=true&locale=en&layout=pie&theme=dracula&langs_count=6&hide=css,html,ruby"
-    alt="scrodrig"
-  />
-</p>
-
-###
-
-<br clear="both">
-
-<p align="center">
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=scrodrig&show_icons=true&theme=dracula&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=scrodrig&show_icons=true&theme=dracula&locale=en&hide=contribs&show=prs_merged,prs_merged_percentage&rank_icon=github&include_all_commits=false&card_width=600px"
     alt="scrodrig"
   />
 </p>
-
-###
 
 <br clear="both">
 
 <p align="center">
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=scrodrig&theme=dracula&exclude_days=Sat,Sun"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=scrodrig&theme=dracula&exclude_days=Sat,Sun&card_width=600px"
     alt="scrodrig"
   />
 </p>
+
+<br clear="both">
+
+<p align="center">
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=scrodrig&show_icons=true&locale=en&layout=normal&theme=dracula&card_width=600px&langs_count=6&hide=css,html,ruby"
+    alt="scrodrig"
+  />
+</p>
+
+###
 
 <h2 align="left">Skills</h2>
 
@@ -350,3 +348,7 @@
 </p>
 
 ###
+
+<!-- <h2 align="left">My pinned repositories</h2>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
