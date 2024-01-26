@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Schubert Rodriguez Quezada</h1>
 <h3 align="center">A passionate full stack developer, MEng | Results-Driven Full Stack Developer | MERN Full Stack | Crafting Efficient and Elegant Solutions for Complex Challenges | Geeky IT guy</h3>
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 ###
 
 - 🔭 I’m currently working on **Brushing-up my skills**
@@ -18,6 +20,7 @@
 ###
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
   <a
     href="https://dev.to/scrodrig"
@@ -43,9 +46,11 @@
 
 ###
 
-<p>
+<br clear="both">
+
+<p align="center">
   <img
-    align="left"
+    align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=scrodrig&show_icons=true&locale=en&layout=compact"
     alt="scrodrig"
   />
@@ -53,7 +58,9 @@
 
 ###
 
-<p>
+<br clear="both">
+
+<p align="center">
   &nbsp;<img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=scrodrig&show_icons=true&theme=dracula&locale=en"
@@ -63,7 +70,9 @@
 
 ###
 
-<p>
+<br clear="both">
+
+<p align="center">
   <img
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=scrodrig&"
@@ -235,11 +244,5 @@
       alt="webpack" width="40" height="40" /> </a>
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=scrodrig"
-      alt="scrodrig"
-  /></a>
-</p>
+###  
 
