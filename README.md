@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Schubert D. Rodriguez (@scrodrig)</h1>
 <h3 align="center">A passionate full stack developer, MEng | Results-Driven Full Stack Developer | MERN Full Stack | Crafting Efficient and Elegant Solutions for Complex Challenges | Geeky IT guy</h3>
 
+<hr/>
+
 <img align="right" height="200" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"  />
 
 ###
@@ -19,7 +21,7 @@
 
 ###
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 
 <p align="left">
   <a
@@ -46,7 +48,7 @@
 
 ###
 <hr/>
-<h3 align="left">Some stats</h3>
+<h2 align="left">Some stats</h2>
 
 <br clear="both">
 
@@ -82,7 +84,7 @@
   />
 </p>
 
-<h3 align="left">Skills</h3>
+<h2 align="left">Skills</h2>
 
 <hr/>
 
@@ -176,7 +178,7 @@
 <h3 align="left">Mobile App Development</h3>
 <hr/>
 <p align="left">
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img
       src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" /> </a>
   <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img
       src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40"
