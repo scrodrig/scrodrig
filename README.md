@@ -205,7 +205,7 @@
 <hr/>
 <p align="left">
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img
-      src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" /</a>
+      src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" /></a>
 <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img
       src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40"
       height="40" /></a>
@@ -315,7 +315,7 @@
 <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img
   src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40" /></a>
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img
-  src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40" /</a>
+  src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40" /></a>
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img
   src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40" /></a>
 </p>
