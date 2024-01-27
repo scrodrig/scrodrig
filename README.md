@@ -349,6 +349,13 @@
 
 ###
 
-<!-- <h2 align="left">My pinned repositories</h2>
+<h2 align="left">My pinned repositories</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&repo=pzaz-books&theme=dracula)](https://github.com/scrodrig/pzaz-books)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&repo=nest-rest-api&theme=dracula)](https://github.com/scrodrig/nest-rest-api)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&repo=ecuavolley-score-ec&theme=dracula)](https://github.com/scrodrig/ecuavolley-score-ec)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&repo=react-pokedex&theme=dracula)](https://github.com/scrodrig/react-pokedex)
