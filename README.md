@@ -349,10 +349,25 @@
 
 ###
 
+<br clear="both">
 <h2 align="left">My pinned repositories</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&repo=pzaz-books&theme=dracula)](https://github.com/scrodrig/pzaz-books)
+<!-- <p align="left">
+  <a href="https://github.com/scrodrig/pzaz-book" target="_blank" rel="noreferrer"> <img
+  src="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&repo=pzaz-books&theme=dracula"/></a>
+  <a href="https://github.com/scrodrig/nest-rest-api" target="_blank" rel="noreferrer"> <img
+  src="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&repo=nest-rest-api&theme=dracula"/></a>
+</p>
 
+<p align="right">
+  <a href="https://github.com/scrodrig/ecuavolley-score-ek" target="_blank" rel="noreferrer"> <img
+  src="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&repo=ecuavolley-score-ec&theme=dracula"/></a>
+  <a href="https://github.com/scrodrig/react-pokedex" target="_blank" rel="noreferrer"> <img
+  src="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&repo=react-pokedex&theme=dracula"/></a>
+</p> -->
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&repo=pzaz-books&theme=dracula)](https://github.com/scrodrig/pzaz-books)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&repo=nest-rest-api&theme=dracula)](https://github.com/scrodrig/nest-rest-api)
 
