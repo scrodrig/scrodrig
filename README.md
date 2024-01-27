@@ -352,25 +352,19 @@
 <br clear="both">
 <h2 align="left">My pinned repositories</h2>
 
-<!-- <p align="left">
+<p align="center">
   <a href="https://github.com/scrodrig/pzaz-book" target="_blank" rel="noreferrer"> <img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&repo=pzaz-books&theme=dracula"/></a>
-  <a href="https://github.com/scrodrig/nest-rest-api" target="_blank" rel="noreferrer"> <img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&repo=nest-rest-api&theme=dracula"/></a>
+  src="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&theme=dracula&layout=compact&repo=pzaz-books"/></a>
 </p>
-
-<p align="right">
+<p align="center">
+  <a href="https://github.com/scrodrig/nest-rest-api" target="_blank" rel="noreferrer"> <img
+  src="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&theme=dracula&repo=nest-rest-api"/></a>
+</p>
+<p align="center">
   <a href="https://github.com/scrodrig/ecuavolley-score-ek" target="_blank" rel="noreferrer"> <img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&repo=ecuavolley-score-ec&theme=dracula"/></a>
+  src="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&theme=dracula&repo=ecuavolley-score-ec"/></a>
+</p>
+<p align="center">
   <a href="https://github.com/scrodrig/react-pokedex" target="_blank" rel="noreferrer"> <img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&repo=react-pokedex&theme=dracula"/></a>
-</p> -->
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&repo=pzaz-books&theme=dracula)](https://github.com/scrodrig/pzaz-books)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&repo=nest-rest-api&theme=dracula)](https://github.com/scrodrig/nest-rest-api)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&repo=ecuavolley-score-ec&theme=dracula)](https://github.com/scrodrig/ecuavolley-score-ec)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&repo=react-pokedex&theme=dracula)](https://github.com/scrodrig/react-pokedex)
+  src="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&theme=dracula&repo=react-pokedex"/></a>
+</p>
