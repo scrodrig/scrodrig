@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **Django, Vue, and Frameworks to improve my projects**
 
-- 👯 I’m looking to collaborate on **top companies in their business**
-
 - 💬 Ask me about **MERN Stack, Pattern Designs, TDD**
 
 - 📫 How to reach me **schubert.david.r@gmail.com**
