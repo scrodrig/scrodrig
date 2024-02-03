@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Brushing-up my skills**
 
-- 🌱 I’m currently learning **Django, Vue, and Frameworks to improve my projects**
+- 🌱 I’m currently learning **Django, Vue, and Bulma**
 
 - 💬 Ask me about **MERN Stack, Pattern Designs, TDD**
 
