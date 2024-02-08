@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Brushing-up my skills**
 
-- 🌱 I’m currently learning **RTQ, Vue, and Bulma**
+- 🌱 I’m currently learning **RTQuery, Vue, and Bulma**
 
-- 💬 Ask me about **MERN Stack, Pattern Designs, TDD**
+- 💬 Ask me about **MERN Stack, Pattern Designs, TDD, BDF**
 
 - 📫 How to reach me **schubert.david.r@gmail.com**
 
