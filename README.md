@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Schubert D. Rodriguez (@scrodrig)</h1>
 <hr/>
-<hr/>
 <h3 align="center">A passionate full stack developer, MEng | Results-Driven Full Stack Developer | MERN Full Stack | Crafting Efficient and Elegant Solutions for Complex Challenges | Geeky IT guy</h3>
 
 <hr/>
