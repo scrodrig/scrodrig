@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Schubert D. Rodriguez (@scrodrig)</h1>
+<h1 align="center">Hi 👋, I am Schubert D. Rodriguez (@scrodrig)</h1>
 <hr/>
 <h3 align="center">A passionate full stack developer, MEng | Results-Driven Full Stack Developer | MERN Full Stack | Crafting Efficient and Elegant Solutions for Complex Challenges | Geeky IT guy</h3>
 
