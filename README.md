@@ -16,8 +16,6 @@
 
 - 📫 How to reach me **schubert.david.r@gmail.com**
 
-- ⚡ Fun fact **I'm constantly looking for a new hobby**
-
 ###
 
 <h2 align="left">Connect with me:</h2>
