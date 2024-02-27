@@ -100,7 +100,7 @@
 <p align="center">
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=scrodrig&show_icons=true&locale=en&layout=normal&theme=dracula&card_width=600px&langs_count=10"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=scrodrig&show_icons=true&locale=en&layout=donut&theme=dracula&langs_count=6&size_weight=0&count_weight=1"
     alt="scrodrig"
   />
 </p>
