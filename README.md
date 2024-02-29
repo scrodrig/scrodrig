@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Brushing-up my skills**
 
-- 🌱 I’m currently learning **RTQuery, Deployment CI/CD, and Bulma**
+- 🌱 I’m currently learning **NextJS**
 
 - 💬 Ask me about **MERN Stack, Pattern Designs, TDD, BDF**
 
