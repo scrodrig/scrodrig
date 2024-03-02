@@ -344,23 +344,63 @@
   width="40" height="40" /></a>
 </p>
 
+<br clear="both">
+<h2 align="left">Live versions</h2>
+<hr/>
+
+<h3 align="left">My technotes repair shop</h3>
+<p align="left">
+  <p align="center">
+  <a href="https://github.com/scrodrig/my-technotes-webapp" target="_blank" rel="noreferrer"> <img
+  src="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&theme=dracula&layout=compact&repo=my-technotes-webapp"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/scrodrig/my-technotes-api" target="_blank" rel="noreferrer"> <img
+  src="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&theme=dracula&layout=compact&repo=my-technotes-api"/></a>
+</p>
+<p align="center">
+  <a href="https://my-technotes-webapp.onrender.com/" target="_blank" rel="noreferrer"> <img
+  src="https://github.com/scrodrig/scrodrig/assets/5466692/5dc16bce-fd1a-46e1-bb6f-0acba778ef6e" alt="my-tech-notes" width="140" /></a>
+</p> 
+</p>
+
+<br clear="both">
+<h3 align="left">Ecuavolley score board</h3>
+<p align="center">
+  <a href="https://github.com/scrodrig/ecuavolley-score-ec" target="_blank" rel="noreferrer"> <img
+  src="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&theme=dracula&repo=ecuavolley-score-ec"/></a>
+</p>
+<p align="center">
+  <a href="https://volley-cb.firebaseapp.com/" target="_blank" rel="noreferrer"> <img
+  src="https://github.com/scrodrig/scrodrig/assets/5466692/5dc16bce-fd1a-46e1-bb6f-0acba778ef6e" alt="ecuavolley" width="140" /></a>
+</p> 
+
+<br clear="both">
+<h3 align="left">IQ Shrimp Hunting</h3>
+<p align="center">
+  <a href="https://github.com/scrodrig/pixi-test-zombie" target="_blank" rel="noreferrer"> <img
+  src="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&theme=dracula&repo=pixi-test-zombie"/></a>
+</p>
+<p align="center">
+  <a href="https://iq-shrimp-hunting.firebaseapp.com/" target="_blank" rel="noreferrer"> <img
+  src="https://github.com/scrodrig/scrodrig/assets/5466692/5dc16bce-fd1a-46e1-bb6f-0acba778ef6e" alt="iq-hunting" width="140" /></a>
+</p> 
+
 ###
 
 <br clear="both">
-<h2 align="left">My pinned repositories</h2>
+<h2 align="left">Other repositories</h2>
 
 <p align="center">
-  <a href="https://github.com/scrodrig/pzaz-book" target="_blank" rel="noreferrer"> <img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&theme=dracula&layout=compact&repo=pzaz-books"/></a>
+  <a href="https://github.com/scrodrig/pzaz-books" target="_blank" rel="noreferrer"> <img
+  src="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&theme=dracula&repo=pzaz-books"/></a>
 </p>
+
 <p align="center">
   <a href="https://github.com/scrodrig/nest-rest-api" target="_blank" rel="noreferrer"> <img
   src="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&theme=dracula&repo=nest-rest-api"/></a>
 </p>
-<p align="center">
-  <a href="https://github.com/scrodrig/ecuavolley-score-ek" target="_blank" rel="noreferrer"> <img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&theme=dracula&repo=ecuavolley-score-ec"/></a>
-</p>
+
 <p align="center">
   <a href="https://github.com/scrodrig/react-pokedex" target="_blank" rel="noreferrer"> <img
   src="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&theme=dracula&repo=react-pokedex"/></a>
