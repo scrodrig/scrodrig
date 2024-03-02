@@ -412,7 +412,3 @@
   src="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&theme=dracula&repo=nest-rest-api"/></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/scrodrig/react-pokedex" target="_blank" rel="noreferrer"> <img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&theme=dracula&repo=react-pokedex"/></a>
-</p>
