@@ -386,6 +386,17 @@
   src="https://github.com/scrodrig/scrodrig/assets/5466692/5dc16bce-fd1a-46e1-bb6f-0acba778ef6e" alt="iq-hunting" width="140" /></a>
 </p> 
 
+<br clear="both">
+<h3 align="left">TS React pokedex</h3>
+<p align="center">
+  <a href="https://github.com/scrodrig/react-pokedex" target="_blank" rel="noreferrer"> <img
+  src="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&theme=dracula&repo=react-pokedex"/></a>
+</p>
+<p align="center">
+  <a href="https://react-pokedex-xu7e.onrender.com/" target="_blank" rel="noreferrer"> <img
+  src="https://github.com/scrodrig/scrodrig/assets/5466692/5dc16bce-fd1a-46e1-bb6f-0acba778ef6e" alt="react-pokedex" width="140" /></a>
+</p> 
+
 ###
 
 <br clear="both">
