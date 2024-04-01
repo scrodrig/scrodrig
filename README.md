@@ -5,7 +5,7 @@
 
 <hr/>
 
-<img align="right" height="200" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"  />
+<img align="right" height="200" src="https://github.com/scrodrig/scrodrig/assets/5466692/96ad1f72-f739-4e6c-90aa-af994646cad6"  />
 
 ###
 
