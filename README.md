@@ -91,7 +91,7 @@
 <p align="center">
   <img
     align="center"
-    src="https://streak-stats.demolab.com/?user=scrodrig&theme=dracula&exclude_days=Sun%2CSat&card_width=600"
+    src="https://streak-stats.demolab.com/?user=scrodrig&theme=dracula&exclude_days=Sun,Sat&card_width=600"
     alt="scrodrig"
   />
 </p>
