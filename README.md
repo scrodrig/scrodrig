@@ -91,7 +91,7 @@
 <p align="center">
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=scrodrig&theme=dracula&exclude_days=Sat,Sun&card_width=600px"
+    src="https://streak-stats.demolab.com/?user=scrodrig&theme=dracula&exclude_days=Sun%2CSat&card_width=600"
     alt="scrodrig"
   />
 </p>
