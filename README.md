@@ -81,7 +81,7 @@
 <p align="center">
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=scrodrig&show_icons=true&theme=shadow_red&locale=en&hide=contribs&show=prs_merged,prs_merged_percentage&rank_icon=github&include_all_commits=false&card_width=600px"
+    src="https://github-readme-stats.vercel.app/api?username=scrodrig&show_icons=true&theme=buefy&locale=en&hide=contribs&show=prs_merged,prs_merged_percentage&rank_icon=github&include_all_commits=false&card_width=600px"
     alt="scrodrig"
   />
 </p>
@@ -91,7 +91,7 @@
 <p align="center">
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=scrodrig&theme=shadow_red&exclude_days=Sat,Sun&card_width=600px"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=scrodrig&theme=buefy&exclude_days=Sat,Sun&card_width=600px"
     alt="scrodrig"
   />
 </p>
@@ -101,7 +101,7 @@
 <p align="center">
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=scrodrig&show_icons=true&locale=en&layout=donut&theme=shadow_red&langs_count=6&size_weight=0&count_weight=1"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=scrodrig&show_icons=true&locale=en&layout=donut&theme=buefy&langs_count=6&size_weight=0&count_weight=1"
     alt="scrodrig"
   />
 </p>
