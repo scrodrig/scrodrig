@@ -65,7 +65,7 @@
 <a href="#" target="_blank" rel="noreferrer"> <img
   src="https://cdn2.iconfinder.com/data/icons/catchwords2/512/or_letter_catchword_lettering_sticker_stickers-256.png" width="30" height="30" /></a>
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img
-  src="https://nestjs.com/logo-small.ede75a6b.svg" alt="nestjs"
+  src="https://nestjs.com/logo-small-gradient.76616405.svg" alt="nestjs"
   width="40" height="40" /></a>
 <a href="#" target="_blank" rel="noreferrer"> <img
   src="https://cdn4.iconfinder.com/data/icons/sign-5/32/parentheses-512.png"
@@ -188,7 +188,7 @@
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img
   src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" /></a>
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img
-  src="https://nestjs.com/logo-small.ede75a6b.svg" alt="nestjs"
+  src="https://nestjs.com/logo-small-gradient.76616405.svg" alt="nestjs"
   width="40" height="40" /></a>
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx"
