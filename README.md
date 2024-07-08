@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Brushing-up my skills**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Pattern Designs in-depth analysis**
 
 - 💬 Ask me about **MERN Stack, Pattern Designs, TDD, BDF**
 
