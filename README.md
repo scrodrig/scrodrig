@@ -107,7 +107,7 @@
 </p>
 
 ###
-
+<h2 align="left">Contribution graph</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/scrodrig/scrodrig/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/scrodrig/scrodrig/output/github-contribution-grid-snake.svg">
@@ -323,12 +323,12 @@
   src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40" /></a>
 </p>
 
-<!-- <h3 align="left">Static Site Generators</h3>
+<h3 align="left">Static Site Generators</h3>
 
 <p align="left">
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" /></a>
-</p> -->
+</p>
 
 <h3 align="left">Game engines</h3>
 <hr/>
@@ -374,9 +374,12 @@
 
 <br clear="both">
 <h3 align="left">Ecuavolley score board</h3>
+
 <p align="center">
-  <a href="https://github.com/scrodrig/ecuavolley-score-ec" target="_blank" rel="noreferrer"> <img
+  <a media="(prefers-color-scheme: dark)" href="https://github.com/scrodrig/ecuavolley-score-ec" target="_blank" rel="noreferrer"> <img
   src="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&theme=dracula&repo=ecuavolley-score-ec"/></a>
+  <a media="(prefers-color-scheme: light)" href="https://github.com/scrodrig/ecuavolley-score-ec" target="_blank" rel="noreferrer"> <img
+  src="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&repo=ecuavolley-score-ec"/></a>
 </p>
 <p align="center">
   <a href="https://volley-cb.firebaseapp.com/" target="_blank" rel="noreferrer"> <img
