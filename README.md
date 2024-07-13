@@ -376,10 +376,13 @@
 <h3 align="left">Ecuavolley score board</h3>
 
 <p align="center">
-  <a media="(prefers-color-scheme: dark)" href="https://github.com/scrodrig/ecuavolley-score-ec" target="_blank" rel="noreferrer"> <img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&theme=dracula&repo=ecuavolley-score-ec"/></a>
-  <a media="(prefers-color-scheme: light)" href="https://github.com/scrodrig/ecuavolley-score-ec" target="_blank" rel="noreferrer"> <img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&repo=ecuavolley-score-ec"/></a>
+  <a href="https://github.com/scrodrig/ecuavolley-score-ec" target="_blank" rel="noreferrer"> 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&theme=dracula&repo=ecuavolley-score-ec" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&repo=ecuavolley-score-ec" />
+    <img alt="ecuavolley-img" src="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&repo=ecuavolley-score-ec" />
+  </picture>
+  </a> 
 </p>
 <p align="center">
   <a href="https://volley-cb.firebaseapp.com/" target="_blank" rel="noreferrer"> <img
