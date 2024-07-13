@@ -80,15 +80,10 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=scrodrig&show_icons=true&theme=buefy&locale=en&hide=contribs&show=prs_merged,prs_merged_percentage&rank_icon=github&include_all_commits=false&card_width=600px&theme=dracula">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=scrodrig&show_icons=true&theme=buefy&locale=en&hide=contribs&show=prs_merged,prs_merged_percentage&rank_icon=github&include_all_commits=false&card_width=600px">
-     <img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api?username=scrodrig&show_icons=true&theme=buefy&locale=en&hide=contribs&show=prs_merged,prs_merged_percentage&rank_icon=github&include_all_commits=false&card_width=600px"
-        alt="scrodrig"
-      />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=scrodrig&show_icons=true&locale=en&hide=contribs&show=prs_merged,prs_merged_percentage&rank_icon=github&include_all_commits=false&card_width=600px&theme=dracula">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=scrodrig&show_icons=true&locale=en&hide=contribs&show=prs_merged,prs_merged_percentage&rank_icon=github&include_all_commits=false&card_width=600px&theme=buefy">
+     <img alt="scrodrig" src="https://github-readme-stats.vercel.app/api?username=scrodrig&show_icons=true&locale=en&hide=contribs&show=prs_merged,prs_merged_percentage&rank_icon=github&include_all_commits=false&card_width=600px&theme=buefy"/>
   </picture>
-
 </p>
 
 <br clear="both">
