@@ -108,6 +108,9 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/scrodrig/scrodrig/output/snake.svg" alt="Snake animation" />
+
+###
 <h2 align="left">Skills</h2>
 
 <h3 align="left">Languages and Tools:</h3>
