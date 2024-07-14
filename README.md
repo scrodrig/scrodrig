@@ -99,11 +99,11 @@
 <br clear="both">
 
 <p align="center">
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=scrodrig&show_icons=true&locale=en&layout=donut&theme=buefy&langs_count=6&size_weight=0&count_weight=1"
-    alt="scrodrig"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=scrodrig&show_icons=true&locale=en&layout=donut&theme=darcula&langs_count=6&size_weight=0&count_weight=1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=scrodrig&show_icons=true&locale=en&layout=donut&theme=buefy&langs_count=6&size_weight=0&count_weight=1" />
+    <img alt="scrodrig-stats2" src="https://github-readme-stats.vercel.app/api/top-langs?username=scrodrig&show_icons=true&locale=en&layout=donut&theme=buefy&langs_count=6&size_weight=0&count_weight=1" />
+  </picture>
 </p>
 
 ###
@@ -359,18 +359,28 @@
 <h3 align="left">My technotes repair shop</h3>
 <p align="left">
   <p align="center">
-  <a href="https://github.com/scrodrig/my-technotes-webapp" target="_blank" rel="noreferrer"> <img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&theme=dracula&layout=compact&repo=my-technotes-webapp"/></a>
+  <a href="https://github.com/scrodrig/my-technotes-webapp" target="_blank" rel="noreferrer"> 
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&theme=dracula&layout=compact&repo=my-technotes-webapp" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&theme=buefy&layout=compact&repo=my-technotes-webapp" />
+      <img alt="ecuavolley-img" src="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&theme=buefy&layout=compact&repo=my-technotes-webapp" />
+    </picture>
+  </a>
 </p>
 <p align="center">
-  <a href="https://github.com/scrodrig/my-technotes-api" target="_blank" rel="noreferrer"> <img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&theme=dracula&layout=compact&repo=my-technotes-api"/></a>
+  <a href="https://github.com/scrodrig/my-technotes-api" target="_blank" rel="noreferrer"> 
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&theme=dracula&layout=compact&repo=my-technotes-api" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&theme=buefy&layout=compact&repo=my-technotes-api" />
+      <img alt="ecuavolley-img" src="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&theme=buefy&layout=compact&repo=my-technotes-api" />
+    </picture>
+  </a>
 </p>
 <p align="center">
   <a href="https://my-technotes-webapp.onrender.com/" target="_blank" rel="noreferrer"> <img
   src="https://github.com/scrodrig/scrodrig/assets/5466692/5dc16bce-fd1a-46e1-bb6f-0acba778ef6e" alt="my-tech-notes" width="140" /></a>
 </p> 
-</p>
+
 
 <br clear="both">
 <h3 align="left">Ecuavolley score board</h3>
@@ -392,8 +402,13 @@
 <br clear="both">
 <h3 align="left">IQ Shrimp Hunting</h3>
 <p align="center">
-  <a href="https://github.com/scrodrig/pixi-test-zombie" target="_blank" rel="noreferrer"> <img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&theme=dracula&repo=pixi-test-zombie"/></a>
+  <a href="https://github.com/scrodrig/pixi-test-zombie" target="_blank" rel="noreferrer"> 
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&theme=dracula&repo=pixi-test-zombie" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&theme=buefy&repo=pixi-test-zombie" />
+      <img alt="ecuavolley-img" src="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&theme=buefy&repo=pixi-test-zombie" />
+    </picture>
+  </a>
 </p>
 <p align="center">
   <a href="https://iq-shrimp-hunting.firebaseapp.com/" target="_blank" rel="noreferrer"> <img
@@ -403,8 +418,13 @@
 <br clear="both">
 <h3 align="left">TS React pokedex</h3>
 <p align="center">
-  <a href="https://github.com/scrodrig/react-pokedex" target="_blank" rel="noreferrer"> <img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&theme=dracula&repo=react-pokedex"/></a>
+  <a href="https://github.com/scrodrig/react-pokedex" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&theme=dracula&repo=react-pokedex" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&theme=buefy&repo=react-pokedex" />
+      <img alt="pokedex-img" src="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&theme=buefy&repo=react-pokedex" />
+    </picture>
+  </a>
 </p>
 <p align="center">
   <a href="https://react-pokedex-xu7e.onrender.com/" target="_blank" rel="noreferrer"> <img
@@ -417,12 +437,22 @@
 <h2 align="left">Other repositories</h2>
 
 <p align="center">
-  <a href="https://github.com/scrodrig/pzaz-books" target="_blank" rel="noreferrer"> <img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&theme=dracula&repo=pzaz-books"/></a>
+  <a href="https://github.com/scrodrig/pzaz-books" target="_blank" rel="noreferrer">
+     <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&theme=dracula&repo=pzaz-books" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&theme=buefy&repo=pzaz-books" />
+      <img alt="ecuavolley-img" src="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&theme=buefy&repo=pzaz-books" />
+    </picture>
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/scrodrig/nest-rest-api" target="_blank" rel="noreferrer"> <img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&theme=dracula&repo=nest-rest-api"/></a>
+  <a href="https://github.com/scrodrig/nest-rest-api" target="_blank" rel="noreferrer"> 
+     <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&theme=dracula&repo=nest-rest-api" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&theme=buefy&repo=nest-rest-api" />
+      <img alt="ecuavolley-img" src="https://github-readme-stats.vercel.app/api/pin/?username=scrodrig&theme=buefy&repo=nest-rest-api" />
+    </picture>
+  </a>
 </p>
 
