@@ -90,11 +90,11 @@
 
 <p align="center">
 <!--   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=scrodrig&theme=darcula&card_width=600px&exclude_days=Sat,Sun" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=scrodrig&theme=buefy&card_width=600px&exclude_days=Sat,Sun" />
-    <img alt="scrodrig-stats2" src="https://github-readme-streak-stats.herokuapp.com/?user=scrodrig&theme=buefy&card_width=600px&exclude_days=Sat,Sun" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=scrodrig&theme=darcula&exclude_days=Sat,Su&card_width=600pxn" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=scrodrig&theme=buefy&exclude_days=Sat,Sun&card_width=600px" />
+    <img alt="scrodrig-stats2" src="https://github-readme-streak-stats.herokuapp.com/?user=scrodrig&theme=buefy&exclude_days=Sat,Sun&card_width=600px" />
   </picture> -->
-  <img alt="scrodrig-stats2" src="https://github-readme-streak-stats.herokuapp.com/?user=scrodrig&theme=buefy&card_width=600px&exclude_days=Sat,Sun" />
+  <img alt="scrodrig-stats2" src="https://github-readme-streak-stats.herokuapp.com/?user=scrodrig&theme=buefy&exclude_days=Sat,Sun&card_width=600px" />
 </p>
 
 <br clear="both">
