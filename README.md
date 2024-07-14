@@ -90,9 +90,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=scrodrig&exclude_days=Sat,Sun&theme=darcula&card_width=600px" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=scrodrig&exclude_days=Sat,Sun&theme=buefy&card_width=600px" />
-    <img alt="scrodrig-stats2" src="https://github-readme-streak-stats.herokuapp.com/?user=scrodrig&exclude_days=Sat,Sun&theme=buefy&card_width=600px" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=scrodrig&theme=darcula&exclude_days=Sat,Sun&card_width=600px" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=scrodrig&theme=buefy&exclude_days=Sat,Sun&card_width=600px" />
+    <img alt="scrodrig-stats2" src="https://github-readme-streak-stats.herokuapp.com/?user=scrodrig&theme=buefy&exclude_days=Sat,Sun&card_width=600px" />
   </picture>
 </p>
 
