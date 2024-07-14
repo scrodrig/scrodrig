@@ -80,20 +80,20 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=scrodrig&show_icons=true&locale=en&hide=contribs&show=prs_merged,prs_merged_percentage&rank_icon=github&include_all_commits=false&card_width=600px&theme=darcula" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=scrodrig&show_icons=true&locale=en&hide=contribs&show=prs_merged,prs_merged_percentage&rank_icon=github&include_all_commits=false&card_width=600px&theme=buefy" />
-    <img alt="ecuavolley-img" src="https://github-readme-stats.vercel.app/api?username=scrodrig&show_icons=true&locale=en&hide=contribs&show=prs_merged,prs_merged_percentage&rank_icon=github&include_all_commits=false&card_width=600px&theme=buefy" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=scrodrig&theme=darcula&show_icons=true&locale=en&hide=contribs&show=prs_merged,prs_merged_percentage&rank_icon=github&include_all_commits=false&card_width=600px" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=scrodrig&theme=buefy&show_icons=true&locale=en&hide=contribs&show=prs_merged,prs_merged_percentage&rank_icon=github&include_all_commits=false&card_width=600px" />
+    <img alt="scrodrig-stats1" src="https://github-readme-stats.vercel.app/api?username=scrodrig&theme=buefy&show_icons=true&locale=en&hide=contribs&show=prs_merged,prs_merged_percentage&rank_icon=github&include_all_commits=false&card_width=600px" />
   </picture>
 </p>
 
 <br clear="both">
 
 <p align="center">
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=scrodrig&theme=buefy&exclude_days=Sat,Sun&card_width=600px"
-    alt="scrodrig"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=scrodrig&theme=darcula&exclude_days=Sat,Sun&card_width=600px" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=scrodrig&theme=buefy&exclude_days=Sat,Sun&card_width=600px" />
+    <img alt="scrodrig-stats2" src="https://github-readme-streak-stats.herokuapp.com/?user=scrodrig&theme=buefy&exclude_days=Sat,Sun&card_width=600px" />
+  </picture>
 </p>
 
 <br clear="both">
