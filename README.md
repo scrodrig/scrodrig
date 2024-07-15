@@ -324,7 +324,7 @@
 </p>
 
 <h3 align="left">Static Site Generators</h3>
-
+<hr/>
 <p align="left">
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" /></a>
@@ -354,7 +354,6 @@
 
 <br clear="both">
 <h2 align="left">Live versions</h2>
-<hr/>
 
 <h3 align="left">My technotes repair shop</h3>
 <p align="left">
