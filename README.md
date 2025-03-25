@@ -15,8 +15,6 @@
 
 - 💬 Ask me about **MERN Stack, Pattern Designs, TDD, BDF**
 
-- 📫 How to reach me **schubert.david.r@gmail.com**
-
 - ⚡ Fun fact **I'm constantly looking for a new hobby**
 
 
